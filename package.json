@@ -1,0 +1,10 @@
+{
+  "name": "payd-repo-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm --prefix payd run build",
+    "vercel-build": "npm --prefix payd run build",
+    "start": "npm --prefix payd run dev"
+  }
+}
