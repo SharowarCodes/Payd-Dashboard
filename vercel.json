@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "payd/dist",
+  "installCommand": "npm install && cd payd && npm install"
+}
